@@ -1,0 +1,13 @@
+﻿  pong.cpp
+C:\Users\LENOVO\source\repos\Pong\Pong\pong.cpp(40,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\source\repos\Pong\Pong\pong.cpp(40,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\Pong\Pong\pong.cpp(40,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\Pong\Pong\pong.cpp(66,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\source\repos\Pong\Pong\pong.cpp(67,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\source\repos\Pong\Pong\pong.cpp(82,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\LENOVO\source\repos\Pong\Pong\pong.cpp(189,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\source\repos\Pong\Pong\pong.cpp(193,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\source\repos\Pong\Pong\pong.cpp(211,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\Pong\Pong\pong.cpp(213,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\source\repos\Pong\Pong\pong.cpp(217,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pong.vcxproj -> C:\Users\LENOVO\source\repos\Pong\x64\Debug\Pong.exe

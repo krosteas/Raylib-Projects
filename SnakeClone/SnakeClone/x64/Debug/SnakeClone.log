@@ -1,0 +1,10 @@
+﻿  SnakeClone.cpp
+C:\Users\LENOVO\source\repos\SnakeClone\SnakeClone\SnakeClone.cpp(86,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\SnakeClone\SnakeClone\SnakeClone.cpp(86,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\SnakeClone\SnakeClone\SnakeClone.cpp(89,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\source\repos\SnakeClone\SnakeClone\SnakeClone.cpp(90,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\source\repos\SnakeClone\SnakeClone\SnakeClone.cpp(183,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\SnakeClone\SnakeClone\SnakeClone.cpp(183,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\SnakeClone\SnakeClone\SnakeClone.cpp(221,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\SnakeClone\SnakeClone\SnakeClone.cpp(222,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SnakeClone.vcxproj -> C:\Users\LENOVO\source\repos\SnakeClone\x64\Debug\SnakeClone.exe
